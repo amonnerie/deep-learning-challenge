@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# deep-learning-challenge 
 by Andrea Monnerie
 
 ## Purpose
@@ -6,13 +6,13 @@ by Andrea Monnerie
 
 ## Process and Results
 
-  Data Preprocessing
+  ### Data Preprocessing
 
   * target variable(s): 'IS_SUCCESSFUL'
   * features: 'APPLICATION_TYPE', 'AFFILIATION', 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION', 'STATUS', 'INCOME_AMT', 'SPECIAL_CONSIDERATIONS', 'ASK_AMT'
   * variable(s) removed: 'EIN' and 'NAME'
 
-  Compiling, Training, and Evaluating the Model
+  ### Compiling, Training, and Evaluating the Model
 
   * How many neurons, layers, and activation functions did you select for your neural network model, and why?
       * hidden layer 1: 80 neurons with "relu" activation function
