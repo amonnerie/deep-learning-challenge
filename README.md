@@ -22,6 +22,7 @@ by Andrea Monnerie
   * Were you able to achieve the target model performance?
       * Accuracy: 0.7261
       * Loss: 0.5571
+     
       ![alphabetmodel](https://github.com/amonnerie/deep-learning-challenge/assets/127140876/ae786bf8-6e77-4045-8adf-1101bd5582cd)
   * Attempt to optimization: There were three attempts to make the model accurate at least by 0.75
 
@@ -43,6 +44,7 @@ by Andrea Monnerie
       * Were you able to achieve the target model performance?
           * Accuracy: 0.7271 (+0.001)
           * Loss: 0.6120 (+0.0639)
+         
           ![optimized1](https://github.com/amonnerie/deep-learning-challenge/assets/127140876/0545bd5f-947f-4a81-a6ec-6dee7f32dbfb)
       
       Attempt 2:
@@ -56,6 +58,7 @@ by Andrea Monnerie
       * Were you able to achieve the target model performance?
           * Accuracy: 0.7289 (+0.0028)
           * Loss: 0.5585 (+0.0014)
+          
           ![optimized2](https://github.com/amonnerie/deep-learning-challenge/assets/127140876/2f2a02e3-5e6a-4150-82d6-29b60ec18887)
       
       Attempt 3:
@@ -70,6 +73,7 @@ by Andrea Monnerie
       * Were you able to achieve the target model performance?
           * Accuracy: 0.7272 (+0.0011)
           * Loss: 0.5672 (+0.0101)
+          
           ![optimized3](https://github.com/amonnerie/deep-learning-challenge/assets/127140876/8d95fd88-ad67-4231-bfff-c22946005b65)
 
 ## Conclusion (different model?)
