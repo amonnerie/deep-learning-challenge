@@ -76,5 +76,5 @@ by Andrea Monnerie
           
           ![optimized3](https://github.com/amonnerie/deep-learning-challenge/assets/127140876/8d95fd88-ad67-4231-bfff-c22946005b65)
 
-## Conclusion (different model?)
+## Conclusion
 Overall, all the attempts to create the accurate model (including the original one) are all an accuracy of about 0.72 and the loss around 0.55. Opimizating the model was surprising difficult as there are many factors that could be modified. Therefore it is difficult to pin point which modification is improving or worsening the accuracy of the model. Supervised machine learning might be a better method to create an accurate model since supervised learning is good for precision since there is human intervention and this project has enough data to train the model.
